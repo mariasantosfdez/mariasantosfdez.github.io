@@ -1,8 +1,9 @@
+
 ---
+layout: archive
 title: "Media & Awards"
 permalink: /media_awards/
-author_profile: true
-layout: single-nopic
+author_profile: single-nopic
 ---
 
 {% include base_path %}
