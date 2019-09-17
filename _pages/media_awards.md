@@ -26,11 +26,11 @@ Scholarships & Awards
 
 * La Caixa Scholarship for Graduate Studies in North-America, August 2017 - August 2019. 
 
-Awarded by Obra Social La Caixa, July 2016.
+     Awarded by Obra Social La Caixa, July 2016.
 
 * Premio Fin de Carrera, Xunta de Galicia.
 
-Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 in the automonous community of Galicia, Spain, October 2015.
+  Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 in the automonous community of Galicia, Spain, October 2015.
 
 * Premio Extraordinario Fin de Carrera, University of Vigo.
 Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 at the University of Vigo, January 2015.
