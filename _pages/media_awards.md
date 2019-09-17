@@ -30,4 +30,4 @@ Scholarships & Awards
 
 * Premio Extraordinario Fin de Carrera, University of Vigo. _Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 at the University of Vigo, January 2015._
 
-* Fulbright Scholarship for Graduate Studies, August 2014 - May 2016. _Awarded by the Fulbright Commission in Spain, June 2013_
+* Fulbright Scholarship for Graduate Studies, August 2014 - May 2016. _Awarded by the Fulbright Commission in Spain, June 2013._
