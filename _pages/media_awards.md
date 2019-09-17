@@ -24,17 +24,10 @@ Media coverage
 Scholarships & Awards
 ---
 
-* La Caixa Scholarship for Graduate Studies in North-America, August 2017 - August 2019. 
+* La Caixa Scholarship for Graduate Studies in North-America, August 2017 - August 2019. _Awarded by Obra Social La Caixa, July 2016._
 
-     Awarded by Obra Social La Caixa, July 2016.
+* Premio Fin de Carrera, Xunta de Galicia. _Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 in the automonous community of Galicia, Spain, October 2015._
 
-* Premio Fin de Carrera, Xunta de Galicia.
+* Premio Extraordinario Fin de Carrera, University of Vigo. _Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 at the University of Vigo, January 2015._
 
-     Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 in the automonous community of Galicia, Spain, October 2015.
-
-* Premio Extraordinario Fin de Carrera, University of Vigo.
-Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 at the University of Vigo, January 2015.
-
-* Fulbright Scholarship for Graduate Studies, August 2014 - May 2016.
-
-     Awarded by the Fulbright Commission in Spain, June 2013
+* Fulbright Scholarship for Graduate Studies, August 2014 - May 2016. _Awarded by the Fulbright Commission in Spain, June 2013_
