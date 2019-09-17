@@ -14,7 +14,7 @@ author_profile: true
 
 ### Refereed Conference Publications
 
-- **María Santos**, Siddharth Mayya, Gennaro Notomista, and Magnus Egerstedt. "Decentralized Minimum Energy Coverage Control for Time-Varying Density Functions". *2019 IEEE International Symposium on Multi-robot and Multi-agent Systems (MRS)*, New Brunswick, NJ, August 2019, to appear. **Outstanding paper finalist**.
+- **María Santos**, Siddharth Mayya, Gennaro Notomista, and Magnus Egerstedt. "[Decentralized Minimum Energy Coverage Control for Time-Varying Density Functions](/files/Santos_MRS2019.pdf)". *2019 IEEE International Symposium on Multi-robot and Multi-agent Systems (MRS)*, New Brunswick, NJ, August 2019, to appear. **Outstanding paper finalist**.
 
 - Gennaro Notomista, **María Santos**, Seth Hutchinson, and Magnus Egerstedt. "[Sensor Coverage Control Using Robots Constrained to a Curve](https://ieeexplore.ieee.org/abstract/document/8794261)". *2019 IEEE International Conference on Robotics and Automation (ICRA)*, Montreal, May 2019,  pp. 3010-3016.
 
