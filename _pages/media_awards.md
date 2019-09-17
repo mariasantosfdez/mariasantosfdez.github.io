@@ -30,11 +30,11 @@ Scholarships & Awards
 
 * Premio Fin de Carrera, Xunta de Galicia.
 
-  Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 in the automonous community of Galicia, Spain, October 2015.
+     Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 in the automonous community of Galicia, Spain, October 2015.
 
 * Premio Extraordinario Fin de Carrera, University of Vigo.
 Awarded to the most outstanding Industrial Engineer graduating in the academic year 2013-14 at the University of Vigo, January 2015.
 
 * Fulbright Scholarship for Graduate Studies, August 2014 - May 2016.
 
-Awarded by the Fulbright Commission in Spain, June 2013
+     Awarded by the Fulbright Commission in Spain, June 2013
