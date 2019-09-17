@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
+
 * Industrial Engineering Degree (BS/MS), specialization in Controls and Electronics, Universidade de Vigo, 2013.
 * Master of Science in Electrical and Computer Engineering, Georgia Institute of Technology, 2016.
 * Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2020 (expected).
