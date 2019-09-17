@@ -14,6 +14,14 @@ author_profile: true
 
 ### Refereed Conference Publications
 
+- **María Santos**, Gennaro Notomista, Siddharth Mayya, and Magnus Egerstedt. "Interactive Multi-Robot Painting Through Colored Motion Trails", *ICRA 2020*, submitted.
+
+- Alessia Benevento, **María Santos**, Giuseppe Notarstefano, Kamran Paynabar, Matthieu Bloch, and Magnus Egerstedt. "Multi-Robot Coordination for Estimation and Coverage of Unknown Spatial Fields", *ICRA 2020*, submitted. 
+
+- Riku Funada, **María Santos**, Takuma Gencho, Junya Yamauchi, Masayuki Fujita, and Magnus Egerstedt. "Visual Coverage Maintenance for Quadcopters Using Nonsmooth Barrier Functions", *ICRA 2020*, submitted.
+
+- Gennaro Notomista, Siddharth Mayya, Mario Selvaggio, **María Santos**, and Cristian Secchi. "A set-theoretic approach to multi-task execution and prioritization". *ICRA 2020*, submitted. 
+
 - **María Santos**, Siddharth Mayya, Gennaro Notomista, and Magnus Egerstedt. "[Decentralized Minimum Energy Coverage Control for Time-Varying Density Functions](/files/Santos_MRS2019.pdf)". *2019 IEEE International Symposium on Multi-robot and Multi-agent Systems (MRS)*, New Brunswick, NJ, August 2019, to appear. **Outstanding paper finalist**.
 
 - Gennaro Notomista, **María Santos**, Seth Hutchinson, and Magnus Egerstedt. "[Sensor Coverage Control Using Robots Constrained to a Curve](https://ieeexplore.ieee.org/abstract/document/8794261)". *2019 IEEE International Conference on Robotics and Automation (ICRA)*, Montreal, May 2019,  pp. 3010-3016.
