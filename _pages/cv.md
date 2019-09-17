@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Media coverage
+Education
 ---
 
 * Industrial Engineering Degree (BS/MS), specialization in Automatic Control and Electronics, Universidade de Vigo, 2013.
