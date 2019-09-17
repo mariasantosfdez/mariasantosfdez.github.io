@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-###Media coverage
-
+Media coverage
+---
 
 * Industrial Engineering Degree (BS/MS), specialization in Automatic Control and Electronics, Universidade de Vigo, 2013.
 * Master of Science in Electrical and Computer Engineering, Georgia Institute of Technology, 2016.
