@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Electrical and Computer Engineering at Georgia Tech, where I work with  Dr. [Magnus Egerstedt](http://magnus.ece.gatech.edu/) in the [GRITS Lab](http://gritslab.gatech.edu/home/). My research focuses on the distributed coordination of multi-robot systems, with a particular focus on modeling heterogeneous capabilities within large swarms of robots. I am also very interested on exploring how to use swarm robotics in various forms of artistic expositions. 
+I am a PhD Student in Electrical and Computer Engineering at Georgia Tech, where I work with  Dr. [Magnus Egerstedt](http://magnus.ece.gatech.edu/) in the [GRITS Lab](http://gritslab.gatech.edu/home/). My research focuses on the distributed coordination of multi-robot systems, with a particular focus on modeling heterogeneous capabilities within large swarms of robots. I am also very interested on exploring how to use swarm robotics in various forms of artistic expositions, research for which I have received a La Caixa Fellowship for Graduate Studies in North America. 
 
 Before starting my PhD journey, I received a degree in Industrial Engineering (Ingeniero Industrial) degree in 2013 and an M.S. in Advanced Industrial Processes and Technologies Research in 2014, both from the University of Vigo (Vigo, Spain). I also received a Professional Degree in Music, specializing in Violin, from the Manuel Quiroga Conservatory of Music in Pontevedra, Spain in 2012. I obtained a M.S. in Electrical and Computer Engineering at the Georgia Institute of Technology in 2016 as a Fulbright scholar.   
 
