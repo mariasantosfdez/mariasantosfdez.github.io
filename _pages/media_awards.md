@@ -10,15 +10,15 @@ author_profile: true
 Media coverage
 ---
 
-* From motion to emotion: The potential of robot swarms in artistic performances, [TechXplore](https://techxplore.com/news/2019-04-motion-emotion-potential-robot-swarms.html){:target="_blank"}
+* From motion to emotion: The potential of robot swarms in artistic performances, [TechXplore](https://techxplore.com/news/2019-04-motion-emotion-potential-robot-swarms.html), April 2019.
 
-* Women of Robotics, [Georgia Tech News Center](https://www.news.gatech.edu/features/women-robotics){:target="_blank"}
+* Santos Chosen for La Caixa Fellowship, [Georgia Tech ECE News](https://www.ece.gatech.edu/news/592604/santos-chosen-la-caixa-fellowship), June 2017.
 
-* Santos Chosen for La Caixa Fellowship, [Georgia Tech ECE News](https://www.ece.gatech.edu/news/592604/santos-chosen-la-caixa-fellowship){:target="_blank"}
+* Women of Robotics, [Georgia Tech News Center](https://www.news.gatech.edu/features/women-robotics), April 2017.
 
-* La violinista que investiga sobre robótica, [La Voz de Galicia](https://www.lavozdegalicia.es/noticia/pontevedra/2017/06/06/violinista-investiga-sobre-robotica/0003_201706P6C12991.htm)
+* La violinista que investiga sobre robótica, [La Voz de Galicia](https://www.lavozdegalicia.es/noticia/pontevedra/2017/06/06/violinista-investiga-sobre-robotica/0003_201706P6C12991.htm), May 2017.
 
-* Una caldense ampliará estudios en EE.UU. tras lograr una beca "La Caixa", [La Voz de Galicia](https://www.lavozdegalicia.es/noticia/pontevedra/2017/05/25/caldense-ampliara-estudios-eeuu-tras-lograr-beca-caixa/0003_201705P25C6993.htm)
+* Una caldense ampliará estudios en EE.UU. tras lograr una beca "La Caixa", [La Voz de Galicia](https://www.lavozdegalicia.es/noticia/pontevedra/2017/05/25/caldense-ampliara-estudios-eeuu-tras-lograr-beca-caixa/0003_201705P25C6993.htm), May 2017.
 
 
 Scholarships & Awards
