@@ -9,7 +9,7 @@ permalink: /videos/
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/h-OTe4ieOrI"
+        src="https://www.youtube.com/watch?v=RbmkOJmka8M"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
@@ -19,7 +19,7 @@ permalink: /videos/
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/OQiLbEaZsZw"
+        src="https://www.youtube.com/watch?v=BphBnisGWT0"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
