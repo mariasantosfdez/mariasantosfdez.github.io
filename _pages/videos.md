@@ -3,10 +3,11 @@ title: "Videos"
 permalink: /videos/
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <center>
   <div style="width:90%">
     <div style="float:left;width:48%">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       <iframe
         width="560"
         height="315"
