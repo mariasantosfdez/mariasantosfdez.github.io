@@ -6,6 +6,36 @@ permalink: /videos/
 <center>
   <div style="width:90%">
     <div style="float:left;width:48%">
+      <div id="title">Expressive Swarms</div>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/Z1C8xo-he-Y"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div style="float:right;width:48%">
+      <div id="title">Visual Coverage</div>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/NQmyLJbywmw"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</center>
+
+<div class="spacer" style="padding:15%">
+</div>
+
+<center>
+  <div style="width:90%">
+    <div style="float:left;width:48%">
       <div id="title">Multi-Task Prioritization</div>
       <iframe
         width="560"
@@ -17,7 +47,7 @@ permalink: /videos/
       </iframe>
     </div>
     <div style="float:right;width:48%">
-      <div id="title">Coverage CBFs</div>
+      <div id="title">Time-Varying Coverage</div>
       <iframe
         width="560"
         height="315"
