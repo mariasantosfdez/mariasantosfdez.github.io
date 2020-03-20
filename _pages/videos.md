@@ -31,8 +31,8 @@ permalink: /videos/
 </center>
 
 <center>
-    Heterogeneous Coverage
     <div style="float:left;width:48%">
+        Heterogeneous Coverage
       <iframe
         width="560"
         height="315"
