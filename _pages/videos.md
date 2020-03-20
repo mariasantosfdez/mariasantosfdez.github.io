@@ -32,6 +32,8 @@ permalink: /videos/
 
 <br>
 
+<br>
+
 <center>
   <div style="width:90%">
     <div style="float:left;width:48%">
@@ -61,6 +63,8 @@ permalink: /videos/
 
 <br>
 
+<br>
+
 <center>
   <div style="width:90%">
     <div style="float:left;width:48%">
@@ -87,6 +91,8 @@ permalink: /videos/
     </div>
   </div>
 </center>
+
+<br>
 
 <br>
 
