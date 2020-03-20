@@ -5,8 +5,8 @@ permalink: /videos/
 
 
 <center>
-    Coverage on Curves
     <div style="float:left;width:48%">
+      Coverage on Curves
       <iframe
         width="560"
         height="315"
