@@ -9,7 +9,7 @@ permalink: /videos/
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube.com/watch?v=RbmkOJmka8M"
+        src="https://www.youtube.com/embed/RbmkOJmka8M"
         frameborder="0"
         allow="autoplay; encrypted-media; picture-in-picture"
         allowfullscreen>
