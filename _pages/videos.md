@@ -3,15 +3,6 @@ title: "Videos"
 permalink: /videos/
 ---
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/watch?v=h-OTe4ieOrI"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
-></iframe>
-
 <center>
   <div style="width:90%">
     <div style="float:left;width:48%">
