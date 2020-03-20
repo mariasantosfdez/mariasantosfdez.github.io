@@ -30,10 +30,7 @@ permalink: /videos/
   </div>
 </center>
 
-
-
-<div class="spacer" style="padding:15%">
-</div>
+<br>
 
 <center>
   <div style="width:90%">
