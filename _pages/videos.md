@@ -3,7 +3,14 @@ title: "Videos"
 permalink: /videos/
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/watch?v=RbmkOJmka8M"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen
+></iframe>
 
 <center>
   <div style="width:90%">
@@ -13,7 +20,7 @@ permalink: /videos/
         height="315"
         src="https://www.youtube.com/watch?v=RbmkOJmka8M"
         frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allow="autoplay; encrypted-media; picture-in-picture"
         allowfullscreen>
       </iframe>
     </div>
