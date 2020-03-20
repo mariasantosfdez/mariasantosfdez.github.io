@@ -33,25 +33,25 @@ permalink: /videos/
 <center>
     <div style="float:left;width:48%">
         Heterogeneous Coverage
-      <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/RbmkOJmka8M"
-        frameborder="0"
-        allow="autoplay; encrypted-media; picture-in-picture"
-        allowfullscreen>
-      </iframe>
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/RbmkOJmka8M"
+            frameborder="0"
+            allow="autoplay; encrypted-media; picture-in-picture"
+            allowfullscreen>
+        </iframe>
     </div>
     <div style="float:right;width:48%">
-      Heterogeneous Coverage
-      <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/BphBnisGWT0"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-      </iframe>
+        Heterogeneous Coverage
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/BphBnisGWT0"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
     </div>
   </div>
 </center>
