@@ -6,7 +6,6 @@ permalink: /videos/
 <center>
   <div style="width:90%">
     <div style="float:left;width:48%">
-      Heterogeneous Coverage
       <iframe
         width="560"
         height="315"
@@ -17,7 +16,6 @@ permalink: /videos/
       </iframe>
     </div>
     <div style="float:right;width:48%">
-      Heterogeneous Coverage
       <iframe
         width="560"
         height="315"
