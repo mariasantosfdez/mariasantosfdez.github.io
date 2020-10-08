@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ### Refereed Journal Publications
-- **María Santos** and Magnus Egerstedt. "From Motions to Emotions: Can the Fundamental Emotions be Expressed in a Robot Swarm?", *International Journal of Social Robotics*, under review. arXiv preprint available at: [1903.12118](https://arxiv.org/abs/1903.12118).
+- **María Santos**, Gennaro Notomista, Siddharth Mayya, and Magnus Egerstedt. "[Interactive Multi-Robot Painting Through Colored Motion Trails](https://www.frontiersin.org/articles/10.3389/frobt.2020.580415/abstract)", *Frontiers in Robotics and AI, Robotic Control Systems*, accepted.
+
+- **María Santos** and Magnus Egerstedt. "[From Motions to Emotions: Can the Fundamental Emotions be Expressed in a Robot Swarm?](https://link.springer.com/article/10.1007/s12369-020-00665-6)", *International Journal of Social Robotics*, July 2020.
 
 - **María Santos**, Yancy Diaz-Mercado, and Magnus Egerstedt. "[Coverage Control for Multi-Robot Teams With Heterogeneous Sensing Capabilities](https://ieeexplore.ieee.org/abstract/document/8255576)". *Robotics and Automation Letters*, Vol. 3, No. 2, pp. 919-925, April 2018.
 
@@ -29,8 +31,11 @@ author_profile: true
 - **María Santos** and Magnus Egerstedt. "[Coverage Control for Multi-Robot Teams with Heterogeneous Sensing Capabilities Using Limited Communications](https://ieeexplore.ieee.org/abstract/document/8594056)".  *2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Madrid, October 2018, pp. 5313-5319.
 
 ### Thesis
+
+- **María Teresa Santos Fernández**. "[Coverage Control: From Heterogeneous Robot Teams to Expressive Swarms](https://smartech.gatech.edu/handle/1853/63690)", *PhD Thesis, Georgia Institute of Technology, 2020.*
+
 - **María Teresa Santos Fernández**. "[Musical Abstractions for Multi-Robot Coordination](https://smartech.gatech.edu/handle/1853/55049)", *Master Thesis, Georgia Institute of Technology, 2016.*
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  A complete list can be found on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
