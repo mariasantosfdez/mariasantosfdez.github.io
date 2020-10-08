@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "María Santos"
 title_separator          : "-"
 name                     : &name "María Santos"
-description              : &description "PhD Candidate at the Georgia Institute of Technology"
+description              : &description "Postdoctoral Researcher at Princeton University"
 url                      : https://mariasantosfdez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mariasantosfdez/mariasantosfdez.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "María Santos"
   avatar           : "HeadshotSantiagoSquare.jpg"
-  bio              : "PhD Candidate at the Georgia Institute of Technology"
-  location         : "Atlanta, GA"
+  bio              : "Postdoctoral Researcher at Princeton University"
+  location         : "Princeton, NJ, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=p_o7_SkAAAAJ&hl=en"
-  email            : "maria.santos@gatech.edu"
+  email            : "maria.santos@princeton.edu"
   uri              :
   bitbucket        :
   codepen          :
