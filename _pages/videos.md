@@ -10,7 +10,7 @@ permalink: /videos/
       <iframe
         width="560"
         height="315"
-        src="https://youtu.be/rzHUsB7kccQ"
+        src="https://youtube.com/embed/rzHUsB7kccQ"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
