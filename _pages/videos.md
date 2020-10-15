@@ -16,7 +16,7 @@ permalink: /videos/
         allowfullscreen>
       </iframe>
     </div>
-    <div style="float:left;width:48%">
+    <div style="float:right;width:48%">
       <div id="title">Expressive Swarms</div>
       <iframe
         width="560"
@@ -36,7 +36,7 @@ permalink: /videos/
 
 <center>
   <div style="width:90%">
-    <div style="float:right;width:48%">
+    <div style="float:left;width:48%">
       <div id="title">Visual Coverage</div>
       <iframe
         width="560"
@@ -47,7 +47,7 @@ permalink: /videos/
         allowfullscreen>
       </iframe>
     </div>
-    <div style="float:left;width:48%">
+    <div style="float:right;width:48%">
       <div id="title">Multi-Task Prioritization</div>
       <iframe
         width="560"
@@ -67,7 +67,7 @@ permalink: /videos/
 
 <center>
   <div style="width:90%">
-    <div style="float:right;width:48%">
+    <div style="float:left;width:48%">
       <div id="title">Time-Varying Coverage</div>
       <iframe
         width="560"
@@ -78,7 +78,7 @@ permalink: /videos/
         allowfullscreen>
       </iframe>
     </div>
-    <div style="float:left;width:48%">
+    <div style="float:right;width:48%">
       <div id="title">Coverage on Curves</div>
       <iframe
         width="560"
@@ -124,6 +124,7 @@ permalink: /videos/
 </center>
 
 <center>
+  <div style="width:90%">
     <div style="float:right;width:48%">
       <div id="title">Heterogeneous Coverage</div>
       <iframe
@@ -135,5 +136,6 @@ permalink: /videos/
         allowfullscreen>
       </iframe>
     </div>
+  </div>
   </div>
 </center>
