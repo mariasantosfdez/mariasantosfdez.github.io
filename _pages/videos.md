@@ -123,6 +123,10 @@ permalink: /videos/
   </div>
 </center>
 
+<br>
+
+<br>
+
 <center>
   <div style="width:90%">
     <div style="float:right;width:48%">
