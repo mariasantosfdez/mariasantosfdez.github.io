@@ -29,11 +29,7 @@ permalink: /videos/
     </div>
   </div>
 </center>
-
-<br>
-
-<br>
-
+<br><br>
 <center>
   <div style="width:90%">
     <div style="float:left;width:48%">
