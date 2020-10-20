@@ -19,7 +19,7 @@ Robot swarms follow instructions to create art, [*TechXplore*](https://techxplor
 Tiny robots work together to paint pictures, [*New Atlas*](https://newatlas.com/robotics/swarm-robotics-paint-pictures/).\
 Scientists program robot swarms to create art, [*UPI*](https://www.upi.com/Science_News/2020/10/14/Scientists-program-robot-swarms-to-create-art/2151602707477/).\
 New System Helps Control Swarm of Robots to Paint a Picture, [*AZoRobotics*](https://www.azorobotics.com/News.aspx?newsID=11703).\
-Robot Swarms Follow Instructions to Create Art, [*Robot Swarms Follow Instructions to Create Art*](https://www.courthousenews.com/robot-swarms-follow-instructions-to-create-art/).\
+Robot Swarms Follow Instructions to Create Art, [*Courthouse News*](https://www.courthousenews.com/robot-swarms-follow-instructions-to-create-art/).\
 Roboter-Schwarm als Pinsel-Ersatz in der Kunst (Robot Swarm as a Replacement for Brushes in Art), [*Heise Online*](https://www.heise.de/news/Roboter-Schwarm-als-Pinsel-Ersatz-in-der-Kunst-4930506.html).\
 Sciami di robot diventano pittori (Swarms of robots become painters), [*Agenzia Nazionale Stampa Associata (ANSA)*](https://www.ansa.it/canale_scienza_tecnica/notizie/scienza_arte/2020/10/16/sciami-di-robot-diventano-pittori-_7254828d-7599-41d4-a283-22318187dcad.html).
 
