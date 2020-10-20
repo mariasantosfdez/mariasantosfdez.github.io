@@ -10,11 +10,11 @@ author_profile: true
 Media coverage
 ---
 
-**M6.** Robot swarms guided by human artists could paint colourful pictures, [*NewScientist*](https://www.newscientist.com/article/2256803-robot-swarms-guided-by-human-artists-could-paint-colourful-pictures/), October 2020.\
-Tiny robots create art and other tech news stories, [*BBC News*](https://www.bbc.com/news/av/technology-54451402)\
-Researchers train robot swarm to serve as ‘real-life paintbrushes’, [*ZME Science*](https://www.zmescience.com/other/art-other/robot-swarm-make-art-16102020/)\
-In the near future, robot swarms guided by human artists coud execute paintings, [*Designboom*](https://www.designboom.com/technology/watch-robot-swarms-guided-by-human-artists-paint-colorful-pictures-10-19-2020/)\
-Robots Might Take Over This Essential Human Form of Expression, [*Inverse*](https://www.inverse.com/innovation/automated-art-exhibition)\
+**M6.** i. Robot swarms guided by human artists could paint colourful pictures, [*NewScientist*](https://www.newscientist.com/article/2256803-robot-swarms-guided-by-human-artists-could-paint-colourful-pictures/), October 2020.\
+ii. Tiny robots create art and other tech news stories, [*BBC News*](https://www.bbc.com/news/av/technology-54451402)\
+iii. Researchers train robot swarm to serve as ‘real-life paintbrushes’, [*ZME Science*](https://www.zmescience.com/other/art-other/robot-swarm-make-art-16102020/)\
+iv. In the near future, robot swarms guided by human artists coud execute paintings, [*Designboom*](https://www.designboom.com/technology/watch-robot-swarms-guided-by-human-artists-paint-colorful-pictures-10-19-2020/)\
+v. Robots Might Take Over This Essential Human Form of Expression, [*Inverse*](https://www.inverse.com/innovation/automated-art-exhibition)\
 Robot swarms follow instructions to create art, [*TechXplore*](https://techxplore.com/news/2020-10-robot-swarms-art.html), [*Medium*](https://corzamacentlund.medium.com/robot-swarms-follow-instructions-to-create-art-7c92364ec72b), [*Frontiers Science News*](https://blog.frontiersin.org/2020/10/14/robotics-ai-collaborative-robot-swarm-creates-art-painting/), [*Nanowerk News*](https://www.nanowerk.com/news2/robotics/newsid=56383.php)\
 Tiny robots work together to paint pictures, [*New Atlas*](https://newatlas.com/robotics/swarm-robotics-paint-pictures/)\
 Scientists program robot swarms to create art, [*UPI*](https://www.upi.com/Science_News/2020/10/14/Scientists-program-robot-swarms-to-create-art/2151602707477/)\
