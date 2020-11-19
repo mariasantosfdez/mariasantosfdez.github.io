@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Refereed Journal Publications
-**J4.** **María Santos**, Gennaro Notomista, Siddharth Mayya, and Magnus Egerstedt. "[Interactive Multi-Robot Painting Through Colored Motion Trails](https://www.frontiersin.org/articles/10.3389/frobt.2020.580415/abstract)", *Frontiers in Robotics and AI, Robotic Control Systems*, to appear, 2020.
+**J4.** **María Santos**, Gennaro Notomista, Siddharth Mayya, and Magnus Egerstedt. "[Interactive Multi-Robot Painting Through Colored Motion Trails](https://www.frontiersin.org/articles/10.3389/frobt.2020.580415/abstract)", *Frontiers in Robotics and AI, Robotic Control Systems*, Vol. 7, pp. 143, Oct. 2020.
 
 **J3.** **María Santos** and Magnus Egerstedt. "[From Motions to Emotions: Can the Fundamental Emotions be Expressed in a Robot Swarm?](https://link.springer.com/article/10.1007/s12369-020-00665-6)", *International Journal of Social Robotics*, July 2020. \[[PDF](/files/Santos_SORO_2020_SwarmEmotions.pdf)\] 
 
