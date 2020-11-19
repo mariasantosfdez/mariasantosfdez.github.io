@@ -14,13 +14,16 @@ Media coverage
 Tiny robots create art and other tech news stories, [*BBC News*](https://www.bbc.com/news/av/technology-54451402).\
 Researchers train robot swarm to serve as ‘real-life paintbrushes’, [*ZME Science*](https://www.zmescience.com/other/art-other/robot-swarm-make-art-16102020/).\
 In the near future, robot swarms guided by human artists coud execute paintings, [*Designboom*](https://www.designboom.com/technology/watch-robot-swarms-guided-by-human-artists-paint-colorful-pictures-10-19-2020/).\
-Robots Might Take Over This Essential Human Form of Expression, [*Inverse*](https://www.inverse.com/innovation/automated-art-exhibition).\
+Robots might take over this essential human form of expression, [*Inverse*](https://www.inverse.com/innovation/automated-art-exhibition).\
 Robot swarms follow instructions to create art, [*TechXplore*](https://techxplore.com/news/2020-10-robot-swarms-art.html), [*Robohub*](https://robohub.org/robot-swarms-follow-instructions-to-create-art/), [*Medium*](https://corzamacentlund.medium.com/robot-swarms-follow-instructions-to-create-art-7c92364ec72b), [*Frontiers Science News*](https://blog.frontiersin.org/2020/10/14/robotics-ai-collaborative-robot-swarm-creates-art-painting/), [*Nanowerk News*](https://www.nanowerk.com/news2/robotics/newsid=56383.php).\
 Tiny robots work together to paint pictures, [*New Atlas*](https://newatlas.com/robotics/swarm-robotics-paint-pictures/).\
+This swarm of finger-paint robots might be our lamest apocalypse yet, [*Input*](https://www.inputmag.com/culture/a-swarm-of-finger-paint-robots-might-be-our-lamest-apocalypse-yet).\
 Scientists program robot swarms to create art, [*UPI*](https://www.upi.com/Science_News/2020/10/14/Scientists-program-robot-swarms-to-create-art/2151602707477/).\
-New System Helps Control Swarm of Robots to Paint a Picture, [*AZoRobotics*](https://www.azorobotics.com/News.aspx?newsID=11703).\
-Robot Swarms Follow Instructions to Create Art, [*Courthouse News*](https://www.courthousenews.com/robot-swarms-follow-instructions-to-create-art/).\
+New system helps control swarm of robots to paint a picture, [*AZoRobotics*](https://www.azorobotics.com/News.aspx?newsID=11703).\
+Robot swarms follow instructions to create art, [*Courthouse News*](https://www.courthousenews.com/robot-swarms-follow-instructions-to-create-art/).\
 Roboter-Schwarm als Pinsel-Ersatz in der Kunst (Robot Swarm as a Replacement for Brushes in Art), [*Heise Online*](https://www.heise.de/news/Roboter-Schwarm-als-Pinsel-Ersatz-in-der-Kunst-4930506.html).\
+Ein Roboterschwarm wird kreativ (A robotic swarm gets creative), [*Scinexx - Das Wissensmagazin*](https://www.scinexx.de/news/technik/ein-roboterschwarm-wird-kreativ/).\
+Desarrollan enjambres de robots que podrán pintar cuadros a partir de música (Researchers develop robotic swarms which will be able to render paintings from music), [*La Voz de Galicia*](https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2020/10/22/desarrollan-enjambres-robots-podran-pintar-cuadros-partir-musica/00031603369024487201718.htm).\
 Sciami di robot diventano pittori (Swarms of robots become painters), [*Agenzia Nazionale Stampa Associata (ANSA)*](https://www.ansa.it/canale_scienza_tecnica/notizie/scienza_arte/2020/10/16/sciami-di-robot-diventano-pittori-_7254828d-7599-41d4-a283-22318187dcad.html).\
 Sciami di robot guidati da artisti umani per creare composizioni pittoriche (Robotic swarms led by human artists to create pictorial compositions), [Affari Italiani](https://www.affaritaliani.it/blog/uomo-robot/sciami-di-robot-guidati-da-artisti-umani-per-creare-composizioni-pittoriche-701360.html).
 
