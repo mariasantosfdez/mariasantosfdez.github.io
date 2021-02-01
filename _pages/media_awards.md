@@ -10,6 +10,8 @@ author_profile: true
 Media coverage
 ---
 
+**M7.** TECHnically Creative with María Santos, [*TECHnically Creative: Georgia Tech Alumni and the Arts*](https://arts.gatech.edu/content/technically-creative-maria-santos), [*Facebook Live interview*](https://www.facebook.com/35150423420/videos/466836774335370), January 2021.
+
 **M6.** Robot swarms guided by human artists could paint colourful pictures, [*NewScientist*](https://www.newscientist.com/article/2256803-robot-swarms-guided-by-human-artists-could-paint-colourful-pictures/), October 2020.\
 Tiny robots create art and other tech news stories, [*BBC News*](https://www.bbc.com/news/av/technology-54451402).\
 Researchers train robot swarm to serve as ‘real-life paintbrushes’, [*ZME Science*](https://www.zmescience.com/other/art-other/robot-swarm-make-art-16102020/).\
