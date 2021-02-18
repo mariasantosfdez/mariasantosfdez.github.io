@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Refereed Journal Publications
+### Journals
 **J4.** **María Santos**, Gennaro Notomista, Siddharth Mayya, and Magnus Egerstedt. "[Interactive Multi-Robot Painting Through Colored Motion Trails](https://www.frontiersin.org/articles/10.3389/frobt.2020.580415/abstract)", *Frontiers in Robotics and AI, Robotic Control Systems*, Vol. 7, pp. 143, Oct. 2020.
 
 **J3.** **María Santos** and Magnus Egerstedt. "[From Motions to Emotions: Can the Fundamental Emotions be Expressed in a Robot Swarm?](https://link.springer.com/article/10.1007/s12369-020-00665-6)", *International Journal of Social Robotics*, July 2020. \[[PDF](/files/Santos_SORO_2020_SwarmEmotions.pdf)\] 
@@ -14,7 +14,7 @@ author_profile: true
 
 **J1.** Joaquín López, Diego Pérez, **María Santos** and Miguel Cacho. "[GuideBot. A Tour Guide System Based on Mobile Robots](https://journals.sagepub.com/doi/pdf/10.5772/56901)". *International Journal of Advanced Robotic Systems*, 10:381, Nov. 2013. 
 
-### Refereed Conference Publications
+### Conference Proceedings
 
 **C7.** Alessia Benevento, **María Santos**, Giuseppe Notarstefano, Kamran Paynabar, Matthieu Bloch, and Magnus Egerstedt. "[Multi-Robot Coordination for Estimation and Coverage of Unknown Spatial Fields](https://ieeexplore.ieee.org/document/9197487)", *2020 IEEE International Conference on Robotics and Automation (ICRA)*, Paris, France, May 2020, pp. 7740-7746. \[[PDF](/files/Benevento_ICRA2020_EstimationCoverage.pdf)\] 
 
@@ -29,6 +29,10 @@ author_profile: true
 **C2.** Riku Funada, **María Santos**, Junya Yamauchi, Takeshi Hatanaka, Masajuki Fujita, and Magnus Egerstedt. "[Visual Coverage Control for Teams of Quadcopters via Control Barrier Functions](https://ieeexplore.ieee.org/abstract/document/8793477)". *2019 IEEE International Conference on Robotics and Automation (ICRA)*, Montreal, Canada, May 2019,  pp. 3010-3016. \[[PDF](/files/Funada_ICRA2019_VisualCoverageCBFs.pdf)\]
 
 **C1.** **María Santos** and Magnus Egerstedt. "[Coverage Control for Multi-Robot Teams with Heterogeneous Sensing Capabilities Using Limited Communications](https://ieeexplore.ieee.org/abstract/document/8594056)".  *2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Madrid, Oct. 2018, pp. 5313-5319. \[[PDF](/files/Santos_IROS2018_HeterogeneousCoverageCommunications.pdf)\]
+
+### Conference Workshops
+
+**W1.** **María Santos** and Magnus Egerstedt. "[From Motions to Emotions: Exploring the Emotional Expressiveness of Robot Swarms](http://roboticart.org/wp-content/uploads/2019/05/07_Santos_ICRAX_ExpressiveMotions.pdf)". *ICRA-X: Robotic Art Program*, Montréal, May 2019.
 
 ### Theses
 
