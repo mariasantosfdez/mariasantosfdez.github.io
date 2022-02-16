@@ -16,6 +16,8 @@ author_profile: true
 
 ### Conference Proceedings
 
+**C8.** **María Santos**, Udari Madhushani, Alessia Benevento, and Naomi Ehrich Leonard. "[Multi-robot Learning and Coverage of Unknown Spatial Fields](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9620688)", *2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)*, Cambridge, United Kingdom, Nov. 2021, pp. 137-145.\[[PDF](/files/files/Santos_MRS2021_MultirobotLearningCoverage.pdf)\] 
+
 **C7.** Alessia Benevento, **María Santos**, Giuseppe Notarstefano, Kamran Paynabar, Matthieu Bloch, and Magnus Egerstedt. "[Multi-Robot Coordination for Estimation and Coverage of Unknown Spatial Fields](https://ieeexplore.ieee.org/document/9197487)", *2020 IEEE International Conference on Robotics and Automation (ICRA)*, Paris, France, May 2020, pp. 7740-7746. \[[PDF](/files/Benevento_ICRA2020_EstimationCoverage.pdf)\] 
 
 **C6.** Riku Funada, **María Santos**, Takuma Gencho, Junya Yamauchi, Masayuki Fujita, and Magnus Egerstedt. "[Visual Coverage Maintenance for Quadcopters Using Nonsmooth Barrier Functions](https://ieeexplore.ieee.org/document/9196650)", *2020 IEEE International Conference on Robotics and Automation (ICRA)*, Paris, France, May 2020, pp. 3255-3261. \[[PDF](/files/Funada_ICRA2020_VisualCoverageNonsmoothCBFs.pdf)\]
