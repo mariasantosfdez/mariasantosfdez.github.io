@@ -8,7 +8,7 @@ author_profile: true
 ### Journals
 **J5.** Soobum Kim, **María Santos**, Luis Guerrero-Bonilla, Anthony Yezzi, and Magnus Egerstedt. "[Coverage Control of Mobile Robots With Different Maximum Speeds for Time-Sensitive Applications](https://ieeexplore.ieee.org/document/9695242), "IEEE Robotics and Automation Letters", vol. 7, no. 2, pp. 3001-3007, April 2022. \[[PDF](files/Kim_RAL2022_CoverageDifferentSpeeds.pdf)\]
 
-**J4.** **María Santos**, Gennaro Notomista, Siddharth Mayya, and Magnus Egerstedt. "[Interactive Multi-Robot Painting Through Colored Motion Trails](https://www.frontiersin.org/articles/10.3389/frobt.2020.580415/abstract)", *Frontiers in Robotics and AI, Robotic Control Systems*, Vol. 7, pp. 143, Oct. 2020. \[[PDF](files/Santos_Frontiers2020_InteractiveMultiRobotPainting.pdf)\]
+**J4.** **María Santos**, Gennaro Notomista, Siddharth Mayya, and Magnus Egerstedt. "[Interactive Multi-Robot Painting Through Colored Motion Trails](https://www.frontiersin.org/articles/10.3389/frobt.2020.580415/abstract)", *Frontiers in Robotics and AI, Robotic Control Systems*, Vol. 7, pp. 143, Oct. 2020. \[[PDF](/files/Santos_Frontiers2020_InteractiveMultiRobotPainting.pdf)\]
 
 **J3.** **María Santos** and Magnus Egerstedt. "[From Motions to Emotions: Can the Fundamental Emotions be Expressed in a Robot Swarm?](https://link.springer.com/article/10.1007/s12369-020-00665-6)", *International Journal of Social Robotics*, July 2020. \[[PDF](/files/Santos_SORO_2020_SwarmEmotions.pdf)\] 
 
