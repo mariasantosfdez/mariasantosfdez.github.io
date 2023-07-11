@@ -3,8 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Résumé"
-    url: /files/Maria_Santos_resume.pdf
+#  - title: "Résumé"
+#    url: /files/Maria_Santos_resume.pdf
+  - title: CV
+    url: /files/Maria_Santos_CV.pdf
 
   - title: "Media & Awards"
     url: /media_awards/
