@@ -19,7 +19,9 @@ author_profile: true
 **J1.** Joaquín López, Diego Pérez, **María Santos** and Miguel Cacho. "[GuideBot. A Tour Guide System Based on Mobile Robots](https://journals.sagepub.com/doi/pdf/10.5772/56901)". *International Journal of Advanced Robotic Systems*, 10:381, Nov. 2013. 
 
 ### Conference Proceedings
-**C9.** Kensuke Nakamura\*, **María Santos\***, and Naomi Ehrich Leonard. "[Voronoi-based Learning of Spatial Fields for Multi-robot Coverage](https://arxiv.org/pdf/2208.01800.pdf)". *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Kyoto, Japan, Oct. 2022. (\*Equal contribution).
+**C10.** Charlotte Cathcart, **María Santos**, Shinkyu Park, and Naomi Ehrich Leonard. "[Proactive Opinion-Driven Robot Navigation around Human Movers](https://arxiv.org/abs/2210.01642)", *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Detroit, MI, USA, Oct. 2023. (Accepted).
+
+**C9.** Kensuke Nakamura\*, **María Santos\***, and Naomi Ehrich Leonard. "[Voronoi-based Learning of Spatial Fields for Multi-robot Coverage](https://arxiv.org/pdf/2208.01800.pdf)". *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Kyoto, Japan, Oct. 2022, pp. 9980-9986. (\*Equal contribution).
 
 **C8.** **María Santos**, Udari Madhushani, Alessia Benevento, and Naomi Ehrich Leonard. "[Multi-robot Learning and Coverage of Unknown Spatial Fields](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9620688)", *2021 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)*, Cambridge, United Kingdom, Nov. 2021, pp. 137-145. \[[PDF](/files/Santos_MRS2021_MultirobotLearningCoverage.pdf)\] 
 
