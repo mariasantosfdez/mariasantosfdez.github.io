@@ -5,6 +5,22 @@ permalink: /videos/
 
 <center>
   <div style="width:90%">
+      <div id="title">RhythmBots</div>
+      <iframe
+        width="560"
+        height="315"
+        src="[[https://youtube.com/embed/rzHUsB7kccQ](https://youtu.be/WFODBJDlRUU?si=XM7a5PVJQqxYpGoL)](https://youtu.be/WFODBJDlRUU?si=XM7a5PVJQqxYpGoL)"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </div>
+  </div>
+</center>
+
+<br><br>
+
+<center>
+  <div style="width:90%">
     <div style="float:left;width:48%">
       <div id="title">Painting Swarms</div>
       <iframe
