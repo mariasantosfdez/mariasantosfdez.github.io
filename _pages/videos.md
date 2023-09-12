@@ -10,13 +10,12 @@ permalink: /videos/
       <iframe
         width="560"
         height="315"
-        src="https://youtu.be/WFODBJDlRUU?si=13UvyX4Pm2qHgefh"
+        src="https://www.youtube.com/watch?v=WFODBJDlRUU"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
       </iframe>
     </div>
-    <div style="float:right;width:48%">
     <div style="float:left;width:48%">
       <div id="title">Painting Swarms</div>
       <iframe
