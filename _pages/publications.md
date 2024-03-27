@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  A complete list can be found on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+A complete list can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=p_o7_SkAAAAJ&hl=en).
 
 ### Journals
 **J8.** Beatrice Capelli, **María Santos**, and Lorenzo Sabattini, "[Towards the Legibility of Multi-Robot Systems](https://dl.acm.org/doi/10.1145/3647984)", *ACM Transactions on Human-Robot Interaction*, 2024.
