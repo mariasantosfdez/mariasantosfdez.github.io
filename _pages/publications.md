@@ -26,7 +26,7 @@ author_profile: true
 **J1.** Joaquín López, Diego Pérez, **María Santos** and Miguel Cacho. "[GuideBot. A Tour Guide System Based on Mobile Robots](https://journals.sagepub.com/doi/pdf/10.5772/56901)". *International Journal of Advanced Robotic Systems*, 10:381, Nov. 2013. 
 
 ### Conference Proceedings
-**C11.** Giovanna Amorim, \textbf{María Santos}, Shinkyu Park, Alessio Franci, Naomi Ehrich Leonard. "[Threshold Decision-Making Dynamics Adaptive to Physical Constraints and Changing Environment](https://arxiv.org/pdf/2312.06395.pdf). \textit{European Control Conference (ECC)}, 2024 (accepted).
+**C11.** Giovanna Amorim, \textbf{María Santos}, Shinkyu Park, Alessio Franci, Naomi Ehrich Leonard. "[Threshold Decision-Making Dynamics Adaptive to Physical Constraints and Changing Environment](https://arxiv.org/pdf/2312.06395.pdf). European Control Conference (ECC), 2024 (accepted).
 
 **C10.** Charlotte Cathcart, **María Santos**, Shinkyu Park, and Naomi Ehrich Leonard. "[Proactive Opinion-Driven Robot Navigation around Human Movers](https://arxiv.org/abs/2210.01642)", *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Detroit, MI, USA, Oct. 2023.
 
