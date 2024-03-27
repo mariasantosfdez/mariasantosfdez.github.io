@@ -5,7 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  A complete list can be found on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 ### Journals
+**J8.** Beatrice Capelli, **María Santos**, and Lorenzo Sabattini, "[Towards the Legibility of Multi-Robot Systems](https://dl.acm.org/doi/10.1145/3647984)", *ACM Transactions on Human-Robot Interaction*, 2024.
+
+**J7.** Riku Funada, **María Santos**, Ryuichi Maniwa, Junya Yamauchi, Masayuki Fujita, Mitsuji Sampei, and María Egerstedt, "[Distributed Coverage Hole Prevention for Visual Environmental Monitoring with Quadcopters via Nonsmooth Control Barrier Functions](https://ieeexplore.ieee.org/document/10374239)", *IEEE Transactions on Robotics*, 2024.
+
 **J6.** Anastasia Bizyaeva, Giovanna Amorim, **María Santos**, Alessio Franci, and Naomi Ehrich Leonard. "[Switching transformations for decentralized control of opinion patterns in signed networks: application to dynamic task allocation](https://ieeexplore.ieee.org/document/9805772)”, *IEEE Control Systems Letters*, June 2022.
 
 **J5.** Soobum Kim, **María Santos**, Luis Guerrero-Bonilla, Anthony Yezzi, and Magnus Egerstedt. "[Coverage Control of Mobile Robots With Different Maximum Speeds for Time-Sensitive Applications](https://ieeexplore.ieee.org/document/9695242)", *IEEE Robotics and Automation Letters*, vol. 7, no. 2, pp. 3001-3007, April 2022. \[[PDF](files/Kim_RAL2022_CoverageDifferentSpeeds.pdf)\]
@@ -19,7 +27,9 @@ author_profile: true
 **J1.** Joaquín López, Diego Pérez, **María Santos** and Miguel Cacho. "[GuideBot. A Tour Guide System Based on Mobile Robots](https://journals.sagepub.com/doi/pdf/10.5772/56901)". *International Journal of Advanced Robotic Systems*, 10:381, Nov. 2013. 
 
 ### Conference Proceedings
-**C10.** Charlotte Cathcart, **María Santos**, Shinkyu Park, and Naomi Ehrich Leonard. "[Proactive Opinion-Driven Robot Navigation around Human Movers](https://arxiv.org/abs/2210.01642)", *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Detroit, MI, USA, Oct. 2023. (Accepted).
+**C11.** Giovanna Amorim, \textbf{María Santos}, Shinkyu Park, Alessio Franci, Naomi Ehrich Leonard. "[Threshold Decision-Making Dynamics Adaptive to Physical Constraints and Changing Environment](https://arxiv.org/pdf/2312.06395.pdf). \textit{European Control Conference (ECC)}, 2024 (accepted).
+
+**C10.** Charlotte Cathcart, **María Santos**, Shinkyu Park, and Naomi Ehrich Leonard. "[Proactive Opinion-Driven Robot Navigation around Human Movers](https://arxiv.org/abs/2210.01642)", *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Detroit, MI, USA, Oct. 2023.
 
 **C9.** Kensuke Nakamura\*, **María Santos\***, and Naomi Ehrich Leonard. "[Voronoi-based Learning of Spatial Fields for Multi-robot Coverage](https://arxiv.org/pdf/2208.01800.pdf)". *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Kyoto, Japan, Oct. 2022, pp. 9980-9986. (\*Equal contribution).
 
@@ -54,6 +64,4 @@ author_profile: true
 
 **T1.** **María Teresa Santos Fernández**. *Adaptación de Herramientas del Entorno RIDE para su Utilización en la Arquitectura ROS. (Adaptation of RIDE Environment Tools to the ROS Architecture.)* Proyecto Final de Carrera (Final Engineering Degree Project), School of Industrial Engineering, University of Vigo, Sep. 2013.
 
-{% if author.googlescholar %}
-  A complete list can be found on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
