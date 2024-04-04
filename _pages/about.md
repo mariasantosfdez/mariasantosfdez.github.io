@@ -12,5 +12,5 @@ I am a Postdoctoral Researcher at Princeton University, where I work with Dr. [N
 
 I received my Ph.D. in Electrical and Computer Engineering from the Georgia Institute of Technology in 2020, advised by Dr. [Magnus Egerstedt](https://engineering.uci.edu/users/magnus-egerstedt). My doctoral research was partially supported by a fellowship from La Caixa Foundation. Prior to that, I completed a M.S. in Electrical and Computer Engineering from the Georgia Institute of Technology as a Fulbright scholar in 2016 and a B.S/M.S. in Electrical Engineering from the University of Vigo in 2013, for which I was awarded Outstanding Graduate of the Year (Premio Fin de Carrera).
 
-When I am not in the lab, you can find me playing the violin with friends (beware, sometimes I even try to sing), dancing to latin music, or practicing yoga.
+When I am not in the lab, you can find me playing the violin with friends (beware, sometimes I even try to sing), dancing salsa, or practicing yoga.
 
